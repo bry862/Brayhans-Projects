@@ -1,0 +1,2 @@
+# Over View
+This project simulates the popular number shuffuling game sof thr 2000's. It encorporates the use of data structures like vectors and arrays. The logic of the program is separated into delcaration and definition, giving way to string use of OOP. 
